@@ -6,4 +6,4 @@ Learn about us, and contact us if you have any questions.
 - Web:  [https://www.picovr.com/](https://www.picovr.com/)
 
 ## 安卓Demo
-[自动连接Wifi]()
+[开机自启动](https://github.com/PicoSupport/BootComplete)
