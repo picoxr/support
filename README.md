@@ -29,5 +29,5 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 Learn about us, and contact us if you have any questions. 
 - QQ:  1163262137
 - Email:  support@picovr.com
-- Web:  [https://www.picovr.com/](https://www.picovr.com/)
+- WebSite:  [https://www.picovr.com/](https://www.picovr.com/)
 
