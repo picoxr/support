@@ -3,11 +3,14 @@
 
 Pico开发者平台主要为开发者提供国际领先的VR技术集成和支持服务，在这里可以获取到最前沿的虚拟现实科技，完善的支付及数据体系。更多强大功能即将开启，请持续关注！
 
-## [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
-
 ## [Android_Unity_SDK下载](dev.picovr.com/sdk/index?id=2)
 
+## [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
 
+# 安卓Demo
+[开机自启动](https://github.com/PicoSupport/BootComplete)
+
+<a href="https://github.com/PicoSupport/BootComplete"> <img src="https://s2.ax1x.com/2019/01/04/FTdXsU.png" width="300"/> </a>
 
 
 # Pico技术支持
@@ -17,7 +20,3 @@ Learn about us, and contact us if you have any questions.
 - Email:  support@picovr.com
 - Web:  [https://www.picovr.com/](https://www.picovr.com/)
 
-# 安卓Demo
-[开机自启动](https://github.com/PicoSupport/BootComplete)
-
-<a href="https://github.com/PicoSupport/BootComplete"> <img src="https://s2.ax1x.com/2019/01/04/FTdXsU.png" width="300"/> </a>
