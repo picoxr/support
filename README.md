@@ -13,7 +13,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 # 安卓Demo
 [开机自启动](https://github.com/PicoSupport/BootComplete)
 
-[自动连接wifi]（https://github.com/PicoSupport/PicoVRWifimanager）
+[开机自启动](https://github.com/PicoSupport/PicoVRWifimanager)
 
 # UnityDemo
 [3D物体凝视](https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6)
