@@ -8,7 +8,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 ## [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
 
 
-<a href="https://github.com/PicoSupport/BootComplete"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/ning.png" width="400"/> </a><a href="https://github.com/PicoSupport/PicoVRWifimanager"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/xigua.png" width="400"/> </a>
+<a href="https://github.com/PicoSupport/PicoSupport/blob/master/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/ning.png" width="400"/> </a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/xigua.png" width="400"/> </a>
 
 # 安卓Demo
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
