@@ -9,7 +9,9 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 # `Demo | 示例`
 
-<a href="/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/1.png" width="200"/> </a><a href="/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/2.png" width="200"/> </a></a><a href="launcher.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/3.png" width="200"/> </a>
+<a href="/android.md"> <img src="/Assets/1.png" width="200"/> </a>
+<a href="/unity.md"> <img src="/Assets/2.png" width="200"/> </a>
+<a href="launcher.md"> <img src="/Assets/3.png" width="200"/> </a>
 
 # `AndroidDemo | 安卓` [\[More\]](/android.md)
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
@@ -24,7 +26,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 * [3D物体凝视](https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6)
 
 
-# PicoTechnicalSupport | 技术支持
+# TechnicalSupport | Pico技术支持
 Learn about us, and contact us if you have any questions. 
 欢迎更多地了解我们，如果您有任何问题，请联系我们。
 - QQ:  1163262137
