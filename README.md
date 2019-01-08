@@ -3,12 +3,9 @@
 
 >Pico开发者平台主要为开发者提供国际领先的VR技术集成和支持服务，在这里可以获取到最前沿的虚拟现实科技，完善的支付及数据体系。更多强大功能即将开启，请持续关注！
 
-### [Android_Unity_SDK下载](http://dev.picovr.com/sdk/index?id=26)
-
-### [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
 
 
-# `Demo` [\[More\]](/android.md)
+# `Demo` 
 
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
 
