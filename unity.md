@@ -12,11 +12,11 @@
 * [Unity_Demo_Demo_3D_Video_3D视频播放器实现][05]
 
 
-[01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6
+[01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObject
 [02]: https://github.com/PicoSupport/Unity_Demo_BatteryManager
-[03]: https://github.com/PicoSupport/Unity_Demo_StartActionBlueTooth_SDK_v2.7.6
-[04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImageDemo
-[05]: https://github.com/PicoSupport/Unity_Demo_3D_Video_20181127SDKv2.7.6
+[03]: https://github.com/PicoSupport/Unity_Demo_StartActionBlueTooth
+[04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImage
+[05]: https://github.com/PicoSupport/Unity_Demo_3D_Video
  
 ## Pico 技术支持
 Learn about us, and contact us if you have any questions. 
