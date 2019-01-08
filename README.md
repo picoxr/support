@@ -11,7 +11,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 <a href="https://github.com/PicoSupport/PicoSupport/blob/master/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/1.png" width="200"/> </a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/2.png" width="200"/> </a></a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/launcher.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/3.png" width="200"/> </a>
 
-# `AndroidDemo | 安卓`
+# `AndroidDemo | 安卓` [\[More\]](/android.md)
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
 
 * [自动连接Wifi](https://github.com/PicoSupport/PicoVRWifimanager)
@@ -20,7 +20,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 * [获取系统包名列表](https://github.com/PicoSupport/PackageManager)
 
-# `UnityDemo | Unity3d`
+# `UnityDemo | Unity3d` [\[More\]](/unity.md)
 * [3D物体凝视](https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6)
 
 
