@@ -18,3 +18,9 @@
 [04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImageDemo
 [05]: https://github.com/PicoSupport/Unity_Demo_3D_Video_20181127SDKv2.7.6
  
+## Pico 技术支持
+Learn about us, and contact us if you have any questions. 
+欢迎更多地了解我们，如果您有任何问题，请联系我们。
+- QQ:  1163262137
+- Email:  support@picovr.com
+- Web:  [https://www.picovr.com/](https://www.picovr.com/)
