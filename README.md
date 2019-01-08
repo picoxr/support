@@ -9,7 +9,7 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 # `Demo | 示例`
 
-<a href="https://github.com/PicoSupport/PicoSupport/blob/master/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/1.png" width="200"/> </a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/2.png" width="200"/> </a></a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/launcher.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/3.png" width="200"/> </a>
+<a href="/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/1.png" width="200"/> </a><a href="/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/2.png" width="200"/> </a></a><a href="launcher.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/3.png" width="200"/> </a>
 
 # `AndroidDemo | 安卓` [\[More\]](/android.md)
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
