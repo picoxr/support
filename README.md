@@ -1,7 +1,7 @@
 <a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
-# `Pico VR,A New Reality | 探索虚拟现实新世界`
+# `Pico VR,A New Reality`
 
->Pico开发者平台主要为开发者提供国际领先的VR技术集成和支持服务，在这里可以获取到最前沿的虚拟现实科技，完善的支付及数据体系。更多强大功能即将开启，请持续关注！
+>Pico developer platform mainly provides international leading VR technology integration and support services for developers, where you can get the most cutting-edge virtual reality technology, perfect payment and data system.More powerful features are about to open, please continue to pay attention!
 
 
 # `Demo` 
@@ -15,10 +15,9 @@
 * [获取系统包名列表](https://github.com/PicoSupport/PackageManager)
 
 
-# `TechnicalSupport | Pico技术支持`
+# `TechnicalSupport`
 
 - Learn about us, and contact us if you have any questions. 
-- 欢迎更多地了解我们，如果您有任何问题，请联系我们。
 - Email:  support@picovr.com
 - Web:  [https://www.picovr.com/](https://www.picovr.com/)
 
