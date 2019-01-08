@@ -7,13 +7,8 @@
 
 ### [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
 
-# `Demo | 示例`
 
-<a href="/android.md"> <img src="/Assets/1.png" width="200"/> </a>
-<a href="/unity.md"> <img src="/Assets/2.png" width="200"/> </a>
-<a href="launcher.md"> <img src="/Assets/3.png" width="200"/> </a>
-
-# `AndroidDemo | 安卓` [\[More\]](/android.md)
+# `Demo` [\[More\]](/android.md)
 
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
 
@@ -22,8 +17,6 @@
 * [获取SD卡路径](https://github.com/PicoSupport/SDCardManager)
 
 * [获取系统包名列表](https://github.com/PicoSupport/PackageManager)
-
-# `UnityDemo | Unity3d` [\[More\]](/unity.md)
 
 * [Unity_Demo_Gaze3dObjectDemo_3D物体凝视][01]
 * [Unity_Demo_BatteryManager_cs_获取设备电量][02]
