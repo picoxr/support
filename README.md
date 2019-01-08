@@ -7,11 +7,11 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 ## [UnrealEngine4_SDK下载](http://dev.picovr.com/sdk/index?id=26)
 
-# Demo
+# Demo | 示例
 
 <a href="https://github.com/PicoSupport/PicoSupport/blob/master/android.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/1.png" width="200"/> </a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/unity.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/2.png" width="200"/> </a></a><a href="https://github.com/PicoSupport/PicoSupport/blob/master/launcher.md"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/3.png" width="200"/> </a>
 
-# 安卓Demo
+# AndroidDemo | 安卓
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
 
 * [自动连接Wifi](https://github.com/PicoSupport/PicoVRWifimanager)
@@ -20,11 +20,11 @@ Pico开发者平台主要为开发者提供国际领先的VR技术集成和支�
 
 * [获取系统包名列表](https://github.com/PicoSupport/PackageManager)
 
-# UnityDemo
+# UnityDemo | Unity3d
 * [3D物体凝视](https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6)
 
 
-# Pico技术支持
+# PicoTechnicalSupport | 技术支持
 欢迎更多地了解我们，如果您有任何问题，请联系我们。
 Learn about us, and contact us if you have any questions. 
 - QQ:  1163262137
