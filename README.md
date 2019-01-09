@@ -1,5 +1,5 @@
 <p align="right"><a href="http://www.runoob.com/" target="_blank">中文</a></p>
-<a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
+<a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="500"/> </a>
 
 # `Pico VR,A New Reality`
 
