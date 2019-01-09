@@ -1,4 +1,5 @@
-<a href="http://www.w3school.com.cn/" align="right">Visit W3School!</a> 
+<a href="http://www.w3school.com.cn/" target="_blank">Visit W3School!</a>
+
 <a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
 
 # `Pico VR,A New Reality`
