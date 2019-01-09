@@ -1,4 +1,4 @@
-<p align="right"> [ZN](https://github.com/PicoSupport/BootComplete) </p> <a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
+<p align="right">[zhong](https://github.com/PicoSupport/BootComplete)</p> <a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
 
 # `Pico VR,A New Reality`
 
@@ -8,6 +8,8 @@
 # `Demo` 
 
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
+
+ [zhong](https://github.com/PicoSupport/BootComplete)
 
 * [自动连接Wifi](https://github.com/PicoSupport/PicoVRWifimanager)
 
