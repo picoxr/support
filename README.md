@@ -9,8 +9,6 @@
 
 * [开机自启动](https://github.com/PicoSupport/BootComplete)
 
- [zhong](https://github.com/PicoSupport/BootComplete)
-
 * [自动连接Wifi](https://github.com/PicoSupport/PicoVRWifimanager)
 
 * [获取SD卡路径](https://github.com/PicoSupport/SDCardManager)
