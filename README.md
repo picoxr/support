@@ -8,13 +8,21 @@
 
 # `Demo` 
 
-* [开机自启动](https://github.com/PicoSupport/BootComplete)
+* [PowerManager](https://github.com/PicoSupport/Unity_PowerManager)
 
-* [自动连接Wifi](https://github.com/PicoSupport/PicoVRWifimanager)
+* [Boot From the Rev](https://github.com/PicoSupport/Unity_BootComplete)
 
-* [获取SD卡路径](https://github.com/PicoSupport/SDCardManager)
+* [KillProcess](https://github.com/PicoSupport/Unity_KillProcess)
 
-* [获取系统包名列表](https://github.com/PicoSupport/PackageManager)
+* [UpdateFile](https://github.com/PicoSupport/Unity_UpdateFile)
+
+* [FileDownLoad](https://github.com/PicoSupport/Unity_FileDownload)
+
+* [SystemKeyConfig](https://github.com/PicoSupport/Unity_SystemKeyConfig)
+
+* [MoveFile](https://github.com/PicoSupport/Unity_MoveFile)
+
+* [Wifi Automatic Connection](https://github.com/PicoSupport/Unity_WifiManager)
 
 
 # `TechnicalSupport`
