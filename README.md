@@ -2,6 +2,8 @@
 
 <a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" align="center"/> </a>
 
+<a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="400"/> </a>
+
 # `Pico VR,A New Reality`
 
 >Pico developer platform mainly provides international leading VR technology integration and support services for developers, where you can get the most cutting-edge virtual reality technology, perfect payment and data system.More powerful features are about to open, please continue to pay attention!
