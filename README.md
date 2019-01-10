@@ -30,7 +30,7 @@
 [08]: https://github.com/PicoSupport/Unity_Demo_HandleSwitch
 [09]: https://github.com/PicoSupport/Unity_Demo_teleport
 
-# `Android JAR Package` 
+# Android JAR Package 
 
 * [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
 * [Boot From the Rev](https://github.com/PicoSupport/BootComplete)
