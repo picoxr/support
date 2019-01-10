@@ -30,7 +30,7 @@
 
 * [IPAddressManager](https://github.com/PicoSupport/PicoIPAddress)
 
-* [PicoPlaymanager](https://github.com/PicoSupport/PicoPlayManager)
+* [PicoPlayManager](https://github.com/PicoSupport/PicoPlayManager)
 
 # UnityDemo
 
