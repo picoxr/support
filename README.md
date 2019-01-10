@@ -8,21 +8,27 @@
 
 # `Demo` 
 
-* [PowerManager](https://github.com/PicoSupport/Unity_PowerManager)
+* [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
 
-* [Boot From the Rev](https://github.com/PicoSupport/Unity_BootComplete)
+* [Boot From the Rev](https://github.com/PicoSupport/BootComplete)
 
-* [KillProcess](https://github.com/PicoSupport/Unity_KillProcess)
+* [KillProcess](https://github.com/PicoSupport/KillApplication)
 
-* [UpdateFile](https://github.com/PicoSupport/Unity_UpdateFile)
+* [UpdateFile](https://github.com/PicoSupport/UpdateAnyFile)
 
-* [FileDownLoad](https://github.com/PicoSupport/Unity_FileDownload)
+* [FileDownLoad](https://github.com/PicoSupport/Launcher)
 
-* [SystemKeyConfig](https://github.com/PicoSupport/Unity_SystemKeyConfig)
+* [SystemKeyConfig](https://github.com/PicoSupport/PicoKeyConfig)
 
-* [MoveFile](https://github.com/PicoSupport/Unity_MoveFile)
+* [MoveFile](https://github.com/PicoSupport/FileMove)
 
-* [Wifi Automatic Connection](https://github.com/PicoSupport/Unity_WifiManager)
+* [Wifi Automatic Connection](https://github.com/PicoSupport/PicoVRWifimanager)
+
+* [PackageManager](https://github.com/PicoSupport/PackageManager)
+
+* [SDCardManager](https://github.com/PicoSupport/SDCardManager)
+
+* [LauncherWebVR](https://github.com/PicoSupport/LauncherWebVR)
 
 
 # `TechnicalSupport`
