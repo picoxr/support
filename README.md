@@ -11,7 +11,7 @@
 
 * [Unity_Demo_Gaze3DObjectDemo][01]
 * [Unity_Demo_GetBatteryLevel][02]
-* [Unity_Demo_StartAction][03]
+* [Unity_Demo_EnterSetting][03]
 * [Unity_Demo_AccessG2ProFrontCamera][04]
 * [Unity_Demo_ScreenShot][05]
 * [Unity_Demo_Drag3DObject][06]
@@ -22,7 +22,7 @@
 
 [01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6
 [02]: https://github.com/PicoSupport/Unity_Demo_BatteryManager
-[03]: https://github.com/PicoSupport/Unity_Demo_StartActionBlueTooth_SDK_v2.7.6
+[03]: https://github.com/PicoSupport/Unity_Demo_EnterSetting.7.6
 [04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImageDemo
 [05]: https://github.com/PicoSupport/Unity_Demo_ScreenShot
 [06]: https://github.com/PicoSupport/Unity_Demo_Drag3DObject
