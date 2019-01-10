@@ -16,7 +16,7 @@
 * [Unity_Demo_ScreenShot][05]
 * [Unity_Demo_Drag3DObject][06]
 * [Unity_Demo_PicoUnityProjectorDemo][07]
-* [Unity_Demo_HandleSwitch][08]
+* [Unity_Demo_PicoNeoHandleSwitch][08]
 * [Unity_Demo_Teleport][09]
 
 
