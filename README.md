@@ -23,7 +23,7 @@
 [05]: https://github.com/PicoSupport/Unity_Demo_3D_Video_20181127SDKv2.7.6
  
 
-# `Android JAR Demo` 
+# `Android JAR Package` 
 
 * [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
 
