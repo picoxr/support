@@ -40,5 +40,5 @@
 
 - Learn about us, and contact us if you have any questions. 
 - Email:  support@picovr.com
-- Pico SDK:  (https://www.picovr.com/en/sdk.html)
+- Pico SDK: https://www.picovr.com/en/sdk.html
 
