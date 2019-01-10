@@ -35,6 +35,8 @@
 
 * [PicoPlayManager](https://github.com/PicoSupport/PicoPlayManager)
 
+* [WifiAndBluetooth](https://github.com/PicoSupport/WifiAndBluetooth)
+
 
 
 # `Technical Support`
