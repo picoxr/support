@@ -20,8 +20,6 @@
 
 * [SystemKeyConfig](https://github.com/PicoSupport/PicoKeyConfig)
 
-* [MoveFile](https://github.com/PicoSupport/FileMove)
-
 * [Wifi Automatic Connection](https://github.com/PicoSupport/PicoVRWifimanager)
 
 * [PackageManager](https://github.com/PicoSupport/PackageManager)
