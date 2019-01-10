@@ -30,6 +30,8 @@
 
 * [LauncherWebVR](https://github.com/PicoSupport/LauncherWebVR)
 
+* [IPAddressManager](https://github.com/PicoSupport/PicoIPAddress)
+
 # UnityDemo
 
 
