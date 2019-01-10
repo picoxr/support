@@ -30,7 +30,7 @@
 
 * [LauncherWebVR](https://github.com/PicoSupport/LauncherWebVR)
 
-# 'UnityDemo'
+# UnityDemo
 
 
 
@@ -38,5 +38,5 @@
 
 - Learn about us, and contact us if you have any questions. 
 - Email:  support@picovr.com
-- Web:  [https://www.picovr.com/](https://www.picovr.com/)
+- WebSite:  [https://www.picovr.com/](https://www.picovr.com/)
 
