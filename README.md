@@ -9,7 +9,7 @@
 # `Unity Demo`
 
 
-# `Android JAR Demo` 
+# `Android JAR Package` 
 
 * [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
 
