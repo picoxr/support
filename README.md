@@ -9,11 +9,11 @@
 # `Pico Unity SDK Demo`
 
 
-* [Unity_Demo_Gaze3dObjectDemo_3D物体凝视][01]
-* [Unity_Demo_BatteryManager_cs_获取设备电量][02]
-* [Unity_Demo_StartActionBlueTooth_跳转到wifi、蓝牙、手柄管理、设置界面][03]
-* [Unity_Demo_ AccessG2ProFrontCamera_访问G2Pro前端摄像头][04]
-* [Unity_Demo_Demo_3D_Video_3D视频播放器实现][05]
+* [Unity_Demo_Gaze3dObjectDemo][01]
+* [Unity_Demo_BatteryManager][02]
+* [Unity_Demo_StartAction][03]
+* [Unity_Demo_ AccessG2ProFrontCamera][04]
+* [Unity_Demo_3][05]
 
 
 [01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6
