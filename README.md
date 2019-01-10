@@ -26,29 +26,17 @@
 # `Android JAR Package` 
 
 * [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
-
 * [Boot From the Rev](https://github.com/PicoSupport/BootComplete)
-
 * [KillProcess](https://github.com/PicoSupport/KillApplication)
-
 * [UpdateFile](https://github.com/PicoSupport/UpdateAnyFile)
-
 * [FileDownLoad](https://github.com/PicoSupport/Launcher)
-
 * [SystemKeyConfig](https://github.com/PicoSupport/PicoKeyConfig)
-
 * [Wifi Automatic Connection](https://github.com/PicoSupport/PicoVRWifimanager)
-
 * [PackageManager](https://github.com/PicoSupport/PackageManager)
-
 * [SDCardManager](https://github.com/PicoSupport/SDCardManager)
-
 * [LauncherWebVR](https://github.com/PicoSupport/LauncherWebVR)
-
 * [IPAddressManager](https://github.com/PicoSupport/PicoIPAddress)
-
 * [PicoPlayManager](https://github.com/PicoSupport/PicoPlayManager)
-
 * [WifiAndBluetooth](https://github.com/PicoSupport/WifiAndBluetooth)
 
 
