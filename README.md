@@ -32,11 +32,13 @@
 
 * [IPAddressManager](https://github.com/PicoSupport/PicoIPAddress)
 
+* [PicoPlaymanager](https://github.com/PicoSupport/PicoPlayManager)
+
 # UnityDemo
 
 
 
-# `TechnicalSupport`
+# `Technical Support`
 
 - Learn about us, and contact us if you have any questions. 
 - Email:  support@picovr.com
