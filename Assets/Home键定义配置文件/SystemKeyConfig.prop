@@ -1,0 +1,30 @@
+#this config file is for user to define home key
+
+#the value 7 means the key action is clear memory
+#the value 6 means the key action is recenter
+#the value 5 means the key action is send broadcast
+#the value 4 means the key action is back
+#the value 3 means the key action is go to setting
+#the value 2 means the key action is go home
+#the value 1 means the key action is do the defined action
+#the value 0 means the key action is do nothing
+#if you want use system default config, please delete it
+action_home_single_tap=6
+action_home_double_tap=7
+action_home_long_press=2
+#the value 1 means back 
+action_power_press=1
+time_home_double_tap=400
+time_home_long_press=1300
+
+#you set the action by package and class name
+#you must set it if the action value is 1
+#action_home_single_tap_package=com.example.systemconfig
+#action_home_single_tap_class=com.example.systemconfig.Activity1
+
+#action_home_double_tap_package=com.example.systemconfig
+#action_home_double_tap_class=com.example.systemconfig.Activity2
+
+#action_home_long_press_package=com.picovr.vrlauncher
+#action_home_long_press_class=com.picovr.launcherlib.UnityActivity
+
