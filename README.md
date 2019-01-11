@@ -8,15 +8,15 @@
 # `Pico Unity SDK Demo`
 
 
-* [Unity_Demo_Gaze3DObjectDemo][01]
-* [Unity_Demo_GetBatteryLevel][02]
-* [Unity_Demo_EnterSetting][03]
-* [Unity_Demo_AccessG2ProFrontCamera][04]
-* [Unity_Demo_ScreenShot][05]
-* [Unity_Demo_Drag3DObject][06]
-* [Unity_Demo_PicoUnityProjectorDemo][07]
-* [Unity_Demo_PicoNeoHandleSwitch][08]
-* [Unity_Demo_Teleport][09]
+* [Gaze3DObjectDemo][01]
+* [GetBatteryLevel][02]
+* [EnterSetting][03]
+* [AccessG2ProFrontCamera][04]
+* [ScreenShot][05]
+* [Drag3DObject][06]
+* [PicoUnityProjectorDemo][07]
+* [PicoNeoHandleSwitch][08]
+* [Teleport][09]
 
 
 [01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6
