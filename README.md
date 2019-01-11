@@ -26,7 +26,7 @@
 [05]: https://github.com/PicoSupport/Unity_Demo_ScreenShot
 [06]: https://github.com/PicoSupport/Unity_Demo_Drag3DObject
 [07]: https://github.com/PicoSupport/SyncronizeHMDPoseDataonMultipleDevices
-[08]: https://github.com/PicoSupport/Unity_Demo_HandleSwitch
+[08]: https://github.com/PicoSupport/SwitchPicoNeoControllers
 [09]: https://github.com/PicoSupport/Unity_Demo_teleport
 
 # Android JAR Package 
