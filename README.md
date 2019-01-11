@@ -8,14 +8,14 @@
 # `Pico Unity SDK Demo`
 
 
-* [Gaze3DObjectDemo][01]
-* [GetBatteryLevel][02]
-* [EnterSetting][03]
-* [AccessG2ProFrontCamera][04]
-* [ScreenShot][05]
-* [Drag3DObject][06]
-* [PicoUnityProjectorDemo][07]
-* [PicoNeoHandleSwitch][08]
+* [Gaze 3D Object][01]
+* [Get Battery Level][02]
+* [Goto System Setting][03]
+* [Access G2 Pro Face Panel Camera][04]
+* [Catch ScreenShot][05]
+* [Drag 3D Object][06]
+* [Syncronize HMD Pose Data on Multiple Devices][07]
+* [Switch Pico Neo Controllers][08]
 * [Teleport][09]
 
 
@@ -31,20 +31,18 @@
 
 # Android JAR Package 
 
-* [PowerManager](https://github.com/PicoSupport/PicoVRPowerManager)
-* [Boot From the Rev](https://github.com/PicoSupport/BootComplete)
-* [KillProcess](https://github.com/PicoSupport/KillApplication)
-* [UpdateFile](https://github.com/PicoSupport/UpdateAnyFile)
-* [FileDownLoad](https://github.com/PicoSupport/Launcher)
-* [SystemKeyConfig](https://github.com/PicoSupport/PicoKeyConfig)
-* [Wifi Automatic Connection](https://github.com/PicoSupport/PicoVRWifimanager)
-* [PackageNameManager](https://github.com/PicoSupport/PackageManager)
-* [SDCardManager](https://github.com/PicoSupport/SDCardManager)
-* [LauncherWebVR](https://github.com/PicoSupport/LauncherWebVR)
-* [IPAddressManager](https://github.com/PicoSupport/PicoIPAddress)
-* [PicoPlayManager](https://github.com/PicoSupport/PicoPlayManager)
-* [WifiAndBluetooth](https://github.com/PicoSupport/WifiAndBluetooth)
-
+* [Power Manager and System Setting](https://github.com/PicoSupport/PicoVRPowerManager)
+* [App launch on system boot-up](https://github.com/PicoSupport/BootComplete)
+* [Kill Specific process](https://github.com/PicoSupport/KillApplication)
+* [Update Media File](https://github.com/PicoSupport/UpdateAnyFile)
+* [SystemKey Config at runtime](https://github.com/PicoSupport/PicoKeyConfig)
+* [Wifi Auto Connection](https://github.com/PicoSupport/PicoVRWifimanager)
+* [Get Installed Package Name](https://github.com/PicoSupport/PackageManager)
+* [Get SDCard Path](https://github.com/PicoSupport/SDCardManager)
+* [Launch WebVR](https://github.com/PicoSupport/LauncherWebVR)
+* [Set Static IP Address](https://github.com/PicoSupport/PicoIPAddress)
+* [Call Pico System Built-in Video Player](https://github.com/PicoSupport/PicoPlayManager)
+* [Get Wifi and Bluetooth Status](https://github.com/PicoSupport/WifiAndBluetooth)
 
 
 # `Technical Support`
