@@ -25,7 +25,7 @@
 [04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImageDemo
 [05]: https://github.com/PicoSupport/Unity_Demo_ScreenShot
 [06]: https://github.com/PicoSupport/Unity_Demo_Drag3DObject
-[07]: https://github.com/PicoSupport/Unity_Demo_PicoUnityProjectorDemo
+[07]: https://github.com/PicoSupport/SyncronizeHMDPoseDataonMultipleDevices
 [08]: https://github.com/PicoSupport/Unity_Demo_HandleSwitch
 [09]: https://github.com/PicoSupport/Unity_Demo_teleport
 
