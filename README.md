@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/PicoSupport/PicoSupport/blob/master/README_CN.md/" target="_blank"><a href="https://www.picovr.com/pico_goblin.html"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/home.png" /> </a></a></p>
+
 <a href="https://github.com/PicoSupport/PicoSupport"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="200"/> </a>
 
 ## `Pico VR, A New Reality`
