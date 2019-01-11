@@ -21,7 +21,7 @@
 
 [01]: https://github.com/PicoSupport/Unity_Demo_Gaze3dObjectDemo2.7.6
 [02]: https://github.com/PicoSupport/Unity_Demo_GetBattertyLevel
-[03]: https://github.com/PicoSupport/Unity_Demo_EnterSetting.7.6
+[03]: https://github.com/PicoSupport/Unity_Demo_EnterSetting
 [04]: https://github.com/PicoSupport/Unity_Demo_GetPhoneCameraImageDemo
 [05]: https://github.com/PicoSupport/Unity_Demo_ScreenShot
 [06]: https://github.com/PicoSupport/Unity_Demo_Drag3DObject
