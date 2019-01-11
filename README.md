@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/PicoSupport/PicoSupport" target="_blank">![](https://github.com/PicoSupport/PicoSupport/blob/master/Assets/home.png)</a></p>
+![](https://github.com/PicoSupport/PicoSupport/blob/master/Assets/home.png)
 
 <a href="https://github.com/PicoSupport/PicoSupport"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Assets/Pico.jpg" width="200"/> </a>
 
