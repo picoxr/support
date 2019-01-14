@@ -25,8 +25,8 @@
 [04]: https://github.com/PicoSupport/Unity_Demo_AccessG2ProFacePanelCamera
 [05]: https://github.com/PicoSupport/Unity_Demo_ScreenShot
 [06]: https://github.com/PicoSupport/Unity_Demo_Drag3DObject
-[07]: https://github.com/PicoSupport/SyncronizeHMDPoseDataonMultipleDevices
-[08]: https://github.com/PicoSupport/SwitchPicoNeoControllers
+[07]: https://github.com/PicoSupport/Unity_Demo_SyncronizeHMDPoseDataonMultipleDevices
+[08]: https://github.com/PicoSupport/Unity_Demo_SwitchPicoNeoControllers
 [09]: https://github.com/PicoSupport/Unity_Demo_teleport
 
 # Android JAR File (for Unity app to access/control Pico device at Android level) 
