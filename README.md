@@ -47,7 +47,7 @@
 
 # `Technical Support`
 
-- Learn about us, and contact us if you have any questions. 
+- Please leave your questions/comments at Issues page and we'll keep them updated.
 - Email:  support@picovr.com
 - Pico SDK: https://www.picovr.com/en/sdk.html
 
