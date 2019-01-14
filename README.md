@@ -29,7 +29,8 @@
 [08]: https://github.com/PicoSupport/Unity_Demo_SwitchPicoNeoControllers
 [09]: https://github.com/PicoSupport/Unity_Demo_teleport
 
-# Android JAR File (for Unity app to access/control Pico device at Android level) 
+# Android JAR File
+  (for Unity app to access/control Pico device at Android level)
 
 * [Power Manager and System Setting](https://github.com/PicoSupport/PicoVRPowerManager)
 * [App launch on system boot-up](https://github.com/PicoSupport/BootComplete)
