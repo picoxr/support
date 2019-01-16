@@ -33,11 +33,11 @@
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
 
 * [Power Manager and System Setting](https://github.com/PicoSupport/PicoVRPowerManager)
-* [App launch on system boot-up](https://github.com/PicoSupport/BootComplete)
+* [App Launch on System Boot-up](https://github.com/PicoSupport/BootComplete)
 * [Kill Specific process](https://github.com/PicoSupport/KillApplication)
 * [Update New File Status](https://github.com/PicoSupport/UpdateAnyFile)
 * [SystemKey Config at runtime](https://github.com/PicoSupport/PicoKeyConfig)
-* [Wifi Auto Connection](https://github.com/PicoSupport/PicoVRWifimanager)
+* [Wifi Auto Connection on System Boot-up](https://github.com/PicoSupport/PicoVRWifimanager)
 * [Get Installed Package Name](https://github.com/PicoSupport/PackageManager)
 * [Get SDCard Path](https://github.com/PicoSupport/SDCardManager)
 * [Launch WebVR](https://github.com/PicoSupport/LauncherWebVR)
