@@ -35,7 +35,7 @@
 * [Power Manager and System Setting](https://github.com/PicoSupport/PicoVRPowerManager)
 * [App launch on system boot-up](https://github.com/PicoSupport/BootComplete)
 * [Kill Specific process](https://github.com/PicoSupport/KillApplication)
-* [Update Media File](https://github.com/PicoSupport/UpdateAnyFile)
+* [Update New File Status](https://github.com/PicoSupport/UpdateAnyFile)
 * [SystemKey Config at runtime](https://github.com/PicoSupport/PicoKeyConfig)
 * [Wifi Auto Connection](https://github.com/PicoSupport/PicoVRWifimanager)
 * [Get Installed Package Name](https://github.com/PicoSupport/PackageManager)
