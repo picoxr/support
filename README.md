@@ -2,7 +2,7 @@
 
 ## `Pico VR, A New Reality`
 
->Pico support platform mainly provides leading VR technology integration and support services for ToB/ToC developers worldwide, where you can get the most cutting-edge virtual reality technology, perfect payment and data system. More powerful features are about to coming, please continue to pay attention!
+>Pico support platform mainly provides leading VR technology integration and support services for ToB/ToC developers worldwide, where you can get the most cutting-edge virtual reality technology, perfect payment and data system. More powerful features are about to come, please continue to pay attention.
 
 
 # `Pico Unity SDK Demo`
