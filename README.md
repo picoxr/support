@@ -34,9 +34,9 @@
 
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
 * [App Launch on System Boot-up](https://github.com/picoxr/BootComplete)
-* [Kill Specific process](https://github.com/picoxr/KillApplication)
+* [Kill Specific Process](https://github.com/picoxr/KillApplication)
 * [Update New File Status](https://github.com/picoxr/UptateFileStatus)
-* [SystemKey Config at runtime](https://github.com/picoxr/PicoKeyConfig)
+* [SystemKey Config at Runtime](https://github.com/picoxr/PicoKeyConfig)
 * [Wifi Auto Connection on System Boot-up](https://github.com/picoxr/PicoWifiManager)
 * [Get Installed Package Name](https://github.com/picoxr/PackageNameManager)
 * [Get SD Card Path](https://github.com/picoxr/SDCardManager)
