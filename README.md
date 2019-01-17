@@ -21,7 +21,7 @@
 
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
-[03]: https://github.com/picoxr/Unity_Demo_EnterSetting
+[03]: https://github.com/picoxr/Unity_GotoSystemSetting
 [04]: https://github.com/picoxr/Unity_Demo_AccessG2ProFacePanelCamera
 [05]: https://github.com/picoxr/Unity_Demo_ScreenShot
 [06]: https://github.com/picoxr/Unity_Demo_Drag3DObject
