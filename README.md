@@ -37,7 +37,7 @@
 * [Kill Specific process](https://github.com/picoxr/KillApplication)
 * [Update New File Status](https://github.com/picoxr/UptateFileStatus)
 * [SystemKey Config at runtime](https://github.com/picoxr/PicoKeyConfig)
-* [Wifi Auto Connection on System Boot-up](https://github.com/picoxr/PicoVRWifimanager)
+* [Wifi Auto Connection on System Boot-up](https://github.com/picoxr/PicoWifiManager)
 * [Get Installed Package Name](https://github.com/picoxr/PackageNameManager)
 * [Get SD Card Path](https://github.com/picoxr/SDCardManager)
 * [Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)
