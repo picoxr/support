@@ -42,7 +42,7 @@
 * [Get SD Card Path](https://github.com/picoxr/SDCardManager)
 * [Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)
 * [Set Static IP Address](https://github.com/picoxr/PicoIPAddress)
-* [Call Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)
+* [Launch Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)
 * [Get Wifi and Bluetooth Status](https://github.com/picoxr/WifiAndBluetooth)
 
 
