@@ -32,7 +32,7 @@
 # Android JAR File
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
 
-* [Power Manager and System Setting](https://github.com/picoxrpicoxr/PicoVRPowerManager)
+* [Power Manager and System Setting](https://github.com/picoxr/PicoVRPowerManager)
 * [App Launch on System Boot-up](https://github.com/picoxr/BootComplete)
 * [Kill Specific process](https://github.com/picoxr/KillApplication)
 * [Update New File Status](https://github.com/picoxr/UptateFileStatus)
