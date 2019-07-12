@@ -1,16 +1,16 @@
 <a href="https://www.picovr.com"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/Pico.jpg" width="200"/> </a>
 
-## `Pico VR, A New Reality`
+# `Pico VR, A New Reality`
 
 >Pico support platform mainly provides leading VR/AR technology integration and support services for ToB/ToC developers worldwide, where you can get the most cutting-edge technology, customized solution, perfect payment and data system. More powerful features are about to come, please continue to pay attention.
 
-# `Pico Technical Documentation`
+## `Pico Technical Documentation`
 
 * [Documentation Website](http://us-dev.picovr.com/document/doc)
 
 >Pico technical documents contain instructions for usages of Pico Unity SDK, Unreal SDK, Kiosk Mode instructions, FAQ, system key config etc.
 
-# `Pico Unity SDK Demo`
+## `Pico Unity SDK Demo`
 
 
 * [Gaze 3D Object][01]
@@ -34,7 +34,7 @@
 [08]: https://github.com/picoxr/Unity_Demo_SwitchPicoNeoControllers
 [09]: https://github.com/picoxr/Unity_Demo_teleport
 
-# `Android JAR File`
+## `Pico Android JAR File`
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
 
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
@@ -51,7 +51,7 @@
 * [Get Wifi and Bluetooth Status](https://github.com/picoxr/WifiAndBluetooth)
 
 
-# `Technical Support`
+## `Technical Support`
 
 - Please leave your questions/comments at Issues page and we'll keep them updated.
 - Email:  support@picovr.com
