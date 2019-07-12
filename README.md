@@ -4,7 +4,11 @@
 
 >Pico support platform mainly provides leading VR/AR technology integration and support services for ToB/ToC developers worldwide, where you can get the most cutting-edge technology, customized solution, perfect payment and data system. More powerful features are about to come, please continue to pay attention.
 
-* [Documentation website](http://us-dev.picovr.com/document/doc)
+# `Pico Technical Documentation`
+
+* [Documenta Website](http://us-dev.picovr.com/document/doc)
+
+>Pico technical documents contain instructions for usage of Pico Unity SDK, Unreal SDK, Kiosk Mode instructions, FAQ, system key config etc.
 
 # `Pico Unity SDK Demo`
 
