@@ -6,7 +6,7 @@
 
 # `Pico Technical Documentation`
 
-* [Documenta Website](http://us-dev.picovr.com/document/doc)
+* [Documentation Website](http://us-dev.picovr.com/document/doc)
 
 >Pico technical documents contain instructions for usages of Pico Unity SDK, Unreal SDK, Kiosk Mode instructions, FAQ, system key config etc.
 
