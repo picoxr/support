@@ -22,7 +22,7 @@
 * [Syncronize HMD Pose Data on Multiple Devices][07]
 * [Switch Pico Neo Controllers][08]
 * [Teleport][09]
-
+* [VideoPlayer][10]
 
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
@@ -32,7 +32,8 @@
 [06]: https://github.com/picoxr/Unity_Demo_Drag3DObject
 [07]: https://github.com/picoxr/Unity_Demo_SyncronizeHMDPoseDataonMultipleDevices
 [08]: https://github.com/picoxr/Unity_Demo_SwitchPicoNeoControllers
-[09]: https://github.com/picoxr/Unity_Demo_teleport
+[09]: https://github.com/picoxr/teleport
+[10]: https://github.com/picoxr/VideoPlayer
 
 ## `Pico Android JAR File`
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
