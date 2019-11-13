@@ -35,6 +35,14 @@
 [09]: https://github.com/picoxr/teleport
 [10]: https://github.com/picoxr/VideoPlayer
 
+
+## `Pico Android Native SDK Demo`
+
+
+* [Android_Native_360_VideoPlayer](https://github.com/picoxr/Android_Native_360_VideoPlayer)
+* [Android_Native_3D_VideoPlayer](https://github.com/picoxr/Android_Native_3D_VideoPlayer)
+
+
 ## `Pico Android JAR File`
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
 
