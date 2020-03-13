@@ -35,7 +35,7 @@
 [08]: https://github.com/picoxr/Unity_Demo_SwitchPicoNeoControllers
 [09]: https://github.com/picoxr/teleport
 [10]: https://github.com/picoxr/VideoPlayer
-[11]: hhttps://github.com/picoxr/Launcher-Demo
+[11]: https://github.com/picoxr/Launcher-Demo
 
 
 ## `Pico Android Native SDK Demo`
