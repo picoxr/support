@@ -45,7 +45,7 @@
 * [Android_Native_3D_VideoPlayer](https://github.com/picoxr/Android_Native_3D_VideoPlayer)
 
 
-## `Pico Android JAR File`
+## `Pico Android Sample Code/JAR File`
   (The following JAR files can be used in Unity app to access/control Pico device at Android level)
 
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
@@ -60,6 +60,7 @@
 * [Set Static IP Address](https://github.com/picoxr/PicoIPAddress)
 * [Launch Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)
 * [Get Wifi and Bluetooth Status](https://github.com/picoxr/WifiAndBluetooth)
+* [USB Helper](https://github.com/picoxr/USBHelper)
 
 
 ## `Technical Support`
