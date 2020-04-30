@@ -46,7 +46,7 @@
 
 
 ## `Pico Android Sample Code/JAR File`
-  (The following JAR files can be used in Unity app to access/control Pico device at Android level)
+  (The following JAR files can be used in U3D/UE4 app to access/control Pico device at Android level)
 
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
 * [App Launch on System Boot-up](https://github.com/picoxr/BootComplete)
