@@ -37,7 +37,7 @@
 [09]: https://github.com/picoxr/teleport
 [10]: https://github.com/picoxr/VideoPlayer
 [11]: https://github.com/picoxr/Launcher-Demo
-[12]: https://github.com/picoxr/Eyetracking-Demo
+[12]: https://github.com/picoxr/EyeTracking
 
 
 ## `Pico Android Native SDK Demo`
