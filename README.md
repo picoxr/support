@@ -24,7 +24,7 @@
 * [Teleport][09]
 * [VideoPlayer][10]
 * [Launcher Demo][11]
-* [Eyetracking Demo][12]
+* [EyeTracking][12]
 
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
