@@ -70,5 +70,5 @@
 - Please leave your questions/comments at Issues page and we'll keep them updated.
 - Email:  support@picovr.com
 - Pico SDK: http://us-dev.picovr.com/
-- Copyright © 2015-2019 Pico Interactive, Inc.
+- Copyright © 2015-2020 Pico Interactive, Inc.
 
