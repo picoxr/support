@@ -24,6 +24,7 @@
 * [Teleport][09]
 * [VideoPlayer][10]
 * [Launcher Demo][11]
+* [Eyetracking Demo][12]
 
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
@@ -36,6 +37,7 @@
 [09]: https://github.com/picoxr/teleport
 [10]: https://github.com/picoxr/VideoPlayer
 [11]: https://github.com/picoxr/Launcher-Demo
+[12]: https://github.com/picoxr/Eyetracking-Demo
 
 
 ## `Pico Android Native SDK Demo`
