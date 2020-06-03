@@ -50,8 +50,7 @@
 
 ## `Pico Android Sample Code/JAR File`
   (The following JAR files can be used in U3D/UE4 app to access/control Pico device at Android level)
-* [Android Helper](https://github.com/picoxr/AndroidHelper)
-* [See Through](https://github.com/picoxr/SeeThrough)     
+* [Android Helper](https://github.com/picoxr/AndroidHelper)   
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
 * [App Launch on System Boot-up](https://github.com/picoxr/BootComplete)
 * [Kill Specific Process](https://github.com/picoxr/KillApplication)
@@ -64,7 +63,8 @@
 * [Set Static IP Address](https://github.com/picoxr/PicoIPAddress)
 * [Launch Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)
 * [Get Wifi and Bluetooth Status](https://github.com/picoxr/WifiAndBluetooth)
-* [USB Helper](https://github.com/picoxr/USBHelper)
+* [USB Helper](https://github.com/picoxr/USBHelper)   
+* [See Through](https://github.com/picoxr/SeeThrough)  
 
 
 ## `Technical Support`
