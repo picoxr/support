@@ -13,6 +13,7 @@
 ## `Pico Unity SDK Demo`
 
 
+* [Integrated VRTK][14]
 * [Broadcast Demo][13]
 * [Gaze 3D Object][01]
 * [Get Battery Level][02]
@@ -40,6 +41,7 @@
 [11]: https://github.com/picoxr/Launcher-Demo
 [12]: https://github.com/picoxr/EyeTracking
 [13]: https://github.com/picoxr/Broadcast
+[14]: https://github.com/picoxr/Integrated-VRTK
 
 
 ## `Pico Android Native SDK Demo`
