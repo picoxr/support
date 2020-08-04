@@ -41,7 +41,7 @@
 [11]: https://github.com/picoxr/Launcher-Demo
 [12]: https://github.com/picoxr/EyeTracking
 [13]: https://github.com/picoxr/Broadcast
-[14]: https://github.com/picoxr/Integrated-VRTK
+[14]: https://github.com/picoxr/VRTK-Support
 
 
 ## `Pico Android Native SDK Demo`
