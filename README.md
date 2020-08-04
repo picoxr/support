@@ -13,7 +13,6 @@
 ## `Pico Unity SDK Demo`
 
 
-* [Integrated VRTK][14]
 * [Broadcast Demo][13]
 * [Gaze 3D Object][01]
 * [Get Battery Level][02]
@@ -27,6 +26,7 @@
 * [VideoPlayer][10]
 * [Launcher Demo][11]
 * [EyeTracking][12]
+* [VRTK Support][14]
 
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
