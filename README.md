@@ -17,7 +17,7 @@
 * [Gaze 3D Object][01]
 * [Get Battery Level][02]
 * [Goto System Setting][03]
-* [Access G2 Pro Face Panel Camera][04]
+* [Access G2 4KE Front Camera][04]
 * [Catch ScreenShot][05]
 * [Drag 3D Object][06]
 * [Syncronize HMD Pose Data on Multiple Devices][07]
@@ -31,7 +31,7 @@
 [01]: https://github.com/picoxr/Unity_Demo_Gaze3dObject
 [02]: https://github.com/picoxr/Unity_Demo_GetBattertyLevel
 [03]: https://github.com/picoxr/Unity_GotoSystemSetting
-[04]: https://github.com/picoxr/Unity_Demo_AccessG2ProFacePanelCamera
+[04]: https://github.com/picoxr/access-g2-4ke-front-camera
 [05]: https://github.com/picoxr/Unity_Demo_ScreenShot
 [06]: https://github.com/picoxr/Unity_Demo_Drag3DObject
 [07]: https://github.com/picoxr/Unity_Demo_SyncronizeHMDPoseDataonMultipleDevices
