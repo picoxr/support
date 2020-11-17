@@ -46,7 +46,7 @@
 [14]: https://github.com/picoxr/VRTK-Support
 [15]: https://github.com/picoxr/UI_Interaction     
 [16]: https://github.com/picoxr/RemoteGrab
-[17]: https://github.com/picoxr/PicoVR-Overlay-usage-example
+[17]: https://github.com/picoxr/Overlay-Demo
 
 
 ## `Pico Android Native SDK Demo`
