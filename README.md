@@ -12,6 +12,7 @@
 
 ## `Pico Unity SDK Demo`
 
+* [PicoVR Overlay usage example][17]
 * [Remote Grab][16]
 * [UI Interaction][15]
 * [Broadcast Demo][13]
@@ -45,6 +46,7 @@
 [14]: https://github.com/picoxr/VRTK-Support
 [15]: https://github.com/picoxr/UI_Interaction     
 [16]: https://github.com/picoxr/RemoteGrab
+[17]: https://github.com/picoxr/PicoVR-Overlay-usage-example
 
 
 ## `Pico Android Native SDK Demo`
