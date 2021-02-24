@@ -18,7 +18,6 @@
 * [Access G2 4KE Front Camera][004]
 * [Catch ScreenShot][005]
 * [VideoPlayer][006]
-* [VRTK Support][007]
 
 [001]: https://github.com/picoxr/Overlay-Demo-UnityXR
 [002]: https://github.com/picoxr/get-batterty-level-UnityXR
@@ -26,7 +25,6 @@
 [004]: https://github.com/picoxr/access-g2-4ke-front-camera-UnityXR
 [005]: https://github.com/picoxr/capture-screen-UnityXR
 [006]: https://github.com/picoxr/VideoPlayer-UnityXR
-[007]: https://github.com/picoxr/VRTK-Support-UnityXR
 
 ## `Pico Unity SDK Demo`
 
