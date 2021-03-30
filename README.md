@@ -92,7 +92,7 @@
 
 ## `Technical Support`
 
-- Please leave your questions/comments at Issues page and we'll keep them updated.
+- We now provide PicoDevSupport Portal (Jira-based) which is best for tracking/monitoring development related issues/requirements. Please pay a visit to [https://picodevsupport.atlassian.net/servicedesk/customer/user/login?destination=portals](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?destination=portals) to registrate.
 - Email:  support@picovr.com
 - Pico SDK: https://developer.pico-interactive.com/sdk
 - Copyright © 2015-2021 Pico Interactive, Inc.
