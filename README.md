@@ -88,6 +88,7 @@
 * [Get Wifi and Bluetooth Status](https://github.com/picoxr/WifiAndBluetooth)
 * [USB Helper](https://github.com/picoxr/USBHelper)   
 * [See Through](https://github.com/picoxr/SeeThrough)  
+* [Audio Helper](https://github.com/picoxr/AudioHelper)   
 
 
 ## `Technical Support`
