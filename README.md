@@ -69,6 +69,7 @@
 
 * [Android_Native_360_VideoPlayer](https://github.com/picoxr/Android_Native_360_VideoPlayer)
 * [Android_Native_3D_VideoPlayer](https://github.com/picoxr/Android_Native_3D_VideoPlayer)
+* [CloudXRClientDemo](https://github.com/picoxr/CloudXRClientDemo)
 
 
 ## `Pico Android Sample Code/JAR File`
