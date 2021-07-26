@@ -77,7 +77,7 @@
 * [Android Helper](https://github.com/picoxr/AndroidHelper)   
 * [Power Manager and System Setting](https://github.com/picoxr/PicoPowerManager)
 * [App Launch on System Boot-up](https://github.com/picoxr/BootComplete)
-* [Kill Specific Process](https://github.com/picoxr/KillApplication)
+* [Kill Specific Process](https://github.com/picoxr/Kill_Process)
 * [Update New File Status](https://github.com/picoxr/UptateFileStatus)
 * [SystemKey Config at Runtime](https://github.com/picoxr/PicoKeyConfig)
 * [Wifi Auto Connection on System Boot-up](https://github.com/picoxr/PicoWifiManager)
