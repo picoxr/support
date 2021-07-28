@@ -68,9 +68,11 @@
 ## `Pico Android Native SDK Demo`
 
 * [CloudXR_Client_Demo](https://github.com/picoxr/CloudXR_Client_Demo)
+* [Android_Native_Treasure_Hunter_Demo](https://github.com/picoxr/Android_Native_Treasure_Hunter_Demo)
+* [Android_Native_Get_See_Through_Demo](https://github.com/picoxr/Android_Native_Get_See_Through_Demo)
+* [Android_Native_Controller_Demo](https://github.com/picoxr/Android_Native_Controller_Demo)
 * [Android_Native_360_VideoPlayer](https://github.com/picoxr/Android_Native_360_VideoPlayer)
 * [Android_Native_3D_VideoPlayer](https://github.com/picoxr/Android_Native_3D_VideoPlayer)
-* [Android_Native_TreasureHunter](https://github.com/picoxr/Android_Native_TreasureHunter)
 
 
 ## `Pico Android Sample Code/JAR File`
