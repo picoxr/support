@@ -28,7 +28,8 @@
 
 ## `Pico Unity SDK Demo`
 
-* [Overlay  Demo][17]
+* [Overlay Demo][17]
+* [External Surface Demo][18]
 * [Remote Grab][16]
 * [UI Interaction][15]
 * [Broadcast Demo][13]
@@ -63,6 +64,7 @@
 [15]: https://github.com/picoxr/UI_Interaction     
 [16]: https://github.com/picoxr/RemoteGrab
 [17]: https://github.com/picoxr/Overlay-Demo
+[18]: https://github.com/picoxr/External-Surface-Demo
 
 
 ## `Pico Android Native SDK Demo`
