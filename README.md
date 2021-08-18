@@ -28,9 +28,9 @@
 
 ## `Pico Unreal SDK Demo`
 
-* [UI_Interaction_Demo](https://github.com/picoxr/UIInteractionDemo)
+* [UI_Interaction](https://github.com/picoxr/UIInteractionDemo)
 
-## `Pico Unity SDK Demo`
+## `Pico Unity SDK Demo (Deprecated)`
 
 * [Overlay Demo][17]
 * [External Surface Demo][18]
