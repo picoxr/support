@@ -68,7 +68,7 @@
 
 ## `Pico Unreal SDK Demo`
 
-* [UI Interaction Demo](https://github.com/picoxr/UIInteractionDemo)
+* [UI_Interaction_Demo](https://github.com/picoxr/UIInteractionDemo)
 
 ## `Pico Android Native SDK Demo`
 
