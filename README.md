@@ -64,8 +64,8 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 | How to use Photon's PUN v2 to synchronize the status of objects in the scene (via Custom Room Properties). | How to use the different Eye Tracking APIs (only compatible with Neo 3 Pro Eye devices). | How to create your own system launcher.|
 |  [Advanced Guardian][013]|[VRTK.Tutorials.VRBowling][014]| [VRTK.Tutorials.FarmYard][015]|
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
-|  [RTC Sync Demo][016] 
-| How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.   
+|  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]
+| How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.
 
 [001]: https://github.com/picoxr/Overlay-Demo-UnityXR
 [002]: https://github.com/picoxr/get-batterty-level-UnityXR
@@ -83,6 +83,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 [014]: https://github.com/picoxr/VRTK.Tutorials.VRBowling
 [015]: https://github.com/picoxr/VRTK.Tutorials.FarmYard
 [016]: https://github.com/picoxr/RTCSyncDemo
+[017]: https://github.com/picoxr/Unity-PicoPlatformSDK-LeaderBoard
 
 ## 🔧 Pico Unreal Integration SDK Demos
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
