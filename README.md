@@ -89,7 +89,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
 |---------------------|--------------------------|-----------------------------|
 | How to implement VR interaction with different Unreal UI components.| How to implement different Stereo Layer configurations.| How to implement different Unreal Engine rendering techniques on Pico devices.
-| [PlatformSDK Identity Friend Rtc](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [PlatformSDK Achievement LeaderBoard](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[Broadband Haptic](https://github.com/picoxr/Haptic)|
+| [PlatformSDK Identity Friend Rtc](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [PlatformSDK Achievement LeaderBoard](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[Haptic](https://github.com/picoxr/Haptic)|
 | How to use Pico Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use Pico Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement Broadband Haptic on motion controllers.|
 
 ## 🔧 Pico Native SDK Demos
