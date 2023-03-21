@@ -61,7 +61,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 |  [Miracast In App][007]|[PlayFab Achievement Leaderboard][008]|[Photon State Sync ][009]
 | How to use Pico Unity XR System APIs to implement Miracast in an application. | How to implement achievement and leaderboard features using PlayFab game service. | How to implement state sync using Photon PUN.|
 |  [Photon RoomProperties Sync ][010]|[Eye Tracking][011]| [Launcher Demo][012]
-| How to use Photon's PUN v2 to synchronize the status of objects in the scene (via Custom Room Properties). | New Eye Tracking Demo is coming soon! | How to create your own system launcher.|
+| How to use Photon's PUN v2 to synchronize the status of objects in the scene (via Custom Room Properties). | How to use Eye Tracking APIs | How to create your own system launcher.|
 |  [Advanced Guardian][013]|[VRTK.Tutorials.VRBowling][014]| [VRTK.Tutorials.FarmYard][015]|
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
 |  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]
@@ -77,7 +77,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 [008]: https://github.com/picoxr/PlayFab-Achievement-Leaderboard
 [009]: https://github.com/picoxr/Photon-state-sync
 [010]: https://github.com/picoxr/Photon-RoomProperties-Sync
-[011]: https://github.com/picoxr/Eye-Tracking-UnityXR
+[011]: https://github.com/picoxr/EyeTrackingDemo
 [012]: https://github.com/picoxr/Launcher-Demo-UnityXR
 [013]: https://github.com/picoxr/Advanced-Guardian-Example
 [014]: https://github.com/picoxr/VRTK.Tutorials.VRBowling
