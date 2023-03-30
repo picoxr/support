@@ -112,8 +112,8 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 
 If you have any questions or issues, you can contact us at:
 
-| [Pico Developer Answers](https://devanswers.pico-interactive.com/) | [Pico DevSupport Portal](https://picodevsupport.atlassian.net/servicedesk/customer/user/login?destination=portals) | pico_devsupport@bytedance.com|
+| [Pico Developer Answers](https://devanswers.pico-interactive.com/) | [Pico DevSupport Portal](https://picodevsupport.freshdesk.com/support/home) | pico_devsupport@bytedance.com|
 |--|--|--|
 
 
-*Copyright © 2015-2022 Pico Interactive, Inc.*
+*Copyright © 2015-2023 Pico Interactive, Inc.*
