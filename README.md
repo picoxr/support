@@ -65,7 +65,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 |  [Advanced Guardian][013]|[VRTK.Tutorials.VRBowling][014]| [VRTK.Tutorials.FarmYard][015]|
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
 |  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]| [Handtracking MiniGame][018]|
-| How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! (Along with mini other things)
+| How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! Comes with Tutorial Mode and Arcade Mode.
 
 [001]: https://github.com/picoxr/Overlay-Demo-UnityXR
 [002]: https://github.com/picoxr/get-batterty-level-UnityXR
