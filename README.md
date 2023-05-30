@@ -66,8 +66,8 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
 |  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]| [Handtracking MiniGame][018]|
 | How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! Comes with Tutorial Mode and Arcade Mode.
-| [Face Tracking Demo][019]|
-| How to get Face Tracking data from device and apply to an avatar|
+| [Face Tracking Demo][019]|[Motion Traker Leg Tracking Demo][020]|
+| How to get Face Tracking data from device and apply to an avatar| How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. |
 
 [001]: https://github.com/picoxr/Overlay-Demo-UnityXR
 [002]: https://github.com/picoxr/get-batterty-level-UnityXR
@@ -88,6 +88,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 [017]: https://github.com/picoxr/Unity-PicoPlatformSDK-LeaderBoard
 [018]: https://github.com/picoxr/Unity_HandTracking_Demo
 [019]: https://github.com/picoxr/FaceTrackingDemo
+[020]: https://github.com/picoxr/Swift-Leg-Tracking
 
 ## 🔧 Pico Unreal Integration SDK Demos
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
