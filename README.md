@@ -88,7 +88,7 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 [017]: https://github.com/picoxr/Unity-PicoPlatformSDK-LeaderBoard
 [018]: https://github.com/picoxr/Unity_HandTracking_Demo
 [019]: https://github.com/picoxr/FaceTrackingDemo
-[020]: https://github.com/picoxr/Swift-Leg-Tracking
+[020]: https://github.com/picoxr/Motion-Tracker-Leg-Tracking
 
 ## 🔧 Pico Unreal Integration SDK Demos
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
