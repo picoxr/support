@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.picoxr.com/es/"> <img src="https://github.com/PicoSupport/PicoSupport/blob/master/banner.png" width="500" align="center"/> </a>
+  <a href="https://www.picoxr.com/"> <img src="https://github.com/picoxr/support/blob/master/PICO%20Logo.png" width="450" align="center"/> </a>
 </p>
 
 
