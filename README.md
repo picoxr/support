@@ -99,10 +99,10 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 |[HandTracking](https://github.com/picoxr/HandTracking) |  |  |
 | How to input with hands instead of controllers. |  |  |
 
-## 🔧 Pico Native SDK Demos
-| [Native CloudXR Client Demo](https://github.com/picoxr/CloudXR_Client_Demo) | [OpenXR CloudXR Client Demo](https://github.com/picoxr/OpenXR_CloudXR_Client_Demo) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
+## 🔧 Pico Native OpenXR SDK Demos
+| [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR CloudXR Client Demo](https://github.com/picoxr/OpenXR_CloudXR_Client_Demo) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
 |---------------------|---------------------|---------------------|
-| How to create your own NVIDIA CloudXR Client with Android Native XR SDK.| How to create your NVIDIA CloudXR Client with PICO OpenXR SDK.| How to create your 3D VieoPlayer with PICO OpenXR SDK.|
+| How to create your own Native OpenXR Application with PICO OpenXR SDK.| How to create your NVIDIA CloudXR Client with PICO OpenXR SDK.| How to create your 3D VieoPlayer with PICO OpenXR SDK.|
 
 
 
