@@ -53,6 +53,11 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 
 
 ## 🔧 Pico Unity Integration SDK Demos
+|[**MicroWar**](https://github.com/picoxr/MicroWar)|
+|---------------------|
+|<a href="https://github.com/picoxr/MicroWar" target="-blank"><img src="https://github.com/picoxr/MicroWar/blob/9aaea843a11f63e6e9589055722dabdbf24dbd90/Documentation/Files/20230831-224504.jpg" padding="middle" width="1080px"></a>|
+|An all-in-one demo that meticulously showcases the core features of the PICO Unity Integration SDK.|
+
 | [Overlay Demo][001] | [Get Battery Level][002] | [Go to System Settings][003]|
 |---------------------|--------------------------|-----------------------------|
 | How to use the Overlay component from the VR Compositor Layers Feature. | Obtain the System's battery level from code. | How to access the System's Settings from your application.|
@@ -66,8 +71,9 @@ With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/docu
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
 |  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]| [Handtracking MiniGame][018]|
 | How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! Comes with Tutorial Mode and Arcade Mode.
-| [Face Tracking Demo][019]|[Motion Tracker Leg Tracking Demo][020]|
-| How to get Face Tracking data from device and apply to an avatar| How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. |
+| [Face Tracking Demo][019]|[Motion Tracker Leg Tracking Demo][020]||
+| How to get Face Tracking data from device and apply to an avatar| How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. ||
+
 
 [001]: https://github.com/picoxr/Overlay-Demo-UnityXR
 [002]: https://github.com/picoxr/get-batterty-level-UnityXR
