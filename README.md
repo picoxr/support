@@ -13,10 +13,6 @@ The Pico SDK provides access to a set of features that can be used for games and
 Unity 2019.4 LTS is the earliest Unity version supported by the Pico Unity Integration SDK. If you would like to use more features such as Vulkan, Unity 2020.3 LTS and Unity 2021.3 LTS are recommended.
 
 For Unreal development, UE 4.25, 4.26 and 4.27 are supported.
-| SDK Version | Supported platform |
-|--|--|
-| Pico Unity Integration SDK | Pico Neo 3 Series |
-| Pico Unity XR Platform SDK (Legacy) | Pico Neo 3 Series / Pico G2 / Pico G2 4K |
 
 For more SDK updates and upcoming features, please follow our [SDK Roadmap](https://bytedance.feishu.cn/docx/doxcnWWl9pXkctpCXfNpOT9sgTc).
 
