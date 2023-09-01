@@ -17,15 +17,15 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 |---------------------|--------------------------|-----------------------------|
 | How to use the Overlay component from the VR Compositor Layers Feature. | Obtain the System's battery level from code. | How to access the System's Settings from your application.|
 |  [Access G2 4KE Front Camera][004]|[Catch ScreenShot][005]|[VideoPlayer][006]
-| How to access the frontal RGB camera in G2 4K devices. | Learn how to a screenshot from your application. | How to create different Video Players in Unity using the Pico SDK.|
+| How to access the frontal RGB camera in G2 4K devices. | Learn how to a screenshot from your application. | How to create different Video Players in Unity using the PICO SDK.|
 |  [Miracast In App][007]|[PlayFab Achievement Leaderboard][008]|[Photon State Sync ][009]
-| How to use Pico Unity XR System APIs to implement Miracast in an application. | How to implement achievement and leaderboard features using PlayFab game service. | How to implement state sync using Photon PUN.|
+| How to use PICO Unity XR System APIs to implement Miracast in an application. | How to implement achievement and leaderboard features using PlayFab game service. | How to implement state sync using Photon PUN.|
 |  [Photon RoomProperties Sync ][010]|[Eye Tracking][011]| [Launcher Demo][012]
 | How to use Photon's PUN v2 to synchronize the status of objects in the scene (via Custom Room Properties). | How to use Eye Tracking APIs | How to create your own system launcher.|
 |  [Advanced Guardian][013]|[VRTK.Tutorials.VRBowling][014]| [VRTK.Tutorials.FarmYard][015]|
 |How to use the advanced guardian feature to enable multiple devices to use the same map.|A tutorial on how to make a VR Bowling game using the components from the VRTK suite within the Unity software.|A Farm Yard example scene of how to use VRTK v4 for rapidly building spatial computing solutions in the Unity software.|
 |  [RTC Sync Demo][016]|[Unity-PicoPlatformSDK-LeaderBoard][017]| [Handtracking MiniGame][018]|
-| How to use Pico's SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! Comes with Tutorial Mode and Arcade Mode.
+| How to use PICO SDK to achieve RTC (Real-Time-Communication) service.|How to implement leaderboard feature using PICO Unity Integration SDK.|Handtracking MiniGame with 3 features for you to learn from! Comes with Tutorial Mode and Arcade Mode.
 | [Face Tracking Demo][019]|[Motion Tracker Leg Tracking Demo][020]||
 | How to get Face Tracking data from device and apply to an avatar| How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. ||
 
@@ -54,9 +54,9 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 ## 🔧 PICO Unreal Integration SDK Demos
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
 |---------------------|--------------------------|-----------------------------|
-| How to implement VR interaction with different Unreal UI components.| How to implement different Stereo Layer configurations.| How to implement different Unreal Engine rendering techniques on Pico devices.
+| How to implement VR interaction with different Unreal UI components.| How to implement different Stereo Layer configurations.| How to implement different Unreal Engine rendering techniques on PICO devices.
 | [PlatformSDK Identity Friend Rtc](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [PlatformSDK Achievement LeaderBoard](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[Haptic](https://github.com/picoxr/Haptic)|
-| How to use Pico Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use PICO Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement normal or broadband haptic on controllers.|
+| How to use PICO Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use PICO Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement normal or broadband haptic on controllers.|
 |[HandTracking](https://github.com/picoxr/HandTracking) |  |  |
 | How to input with hands instead of controllers. |  |  |
 
@@ -69,17 +69,15 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 
 ## 🔧 PICO Android Sample Code/JAR File
 
-| [Android Helper](https://github.com/picoxr/AndroidHelper)    | [Get Installed Package Name](https://github.com/picoxr/PackageNameManager) |[Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)| [Launch Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)|
+| [Android Helper](https://github.com/picoxr/AndroidHelper)    | [Get Installed Package Name](https://github.com/picoxr/PackageNameManager) |[Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)| [Launch PICO System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)|
 |--|--|--|--|
-|The Android Helper .jar file can be used in Unity/Unreal to access and control Pico devices at Android level.|How to get installed package names on the device.|How to launch the built-in WebVR browser with a specified URL.|How to launch the built-in Video Player with a specified video file.|
+|The Android Helper .jar file can be used in Unity/Unreal to access and control PICO devices at Android level.|How to get installed package names on the device.|How to launch the built-in WebVR browser with a specified URL.|How to launch the built-in Video Player with a specified video file.|
 
 
 ## 👋 Technical Support
 
 If you have any questions or issues, you can contact us at:
 
-| [Pico DevSupport Portal](https://picodevsupport.freshdesk.com/support/home) | pico_devsupport@bytedance.com|
+| [PICO DevSupport Portal](https://picodevsupport.freshdesk.com/support/home) | pico_devsupport@bytedance.com|
 |--|--|
 
-
-*Copyright © 2015-2023 Pico Interactive, Inc.*
