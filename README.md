@@ -4,49 +4,8 @@
 
 
 # PicoXR SDK Official Repository
-Welcome to the official PicoXR DevSupport GitHub repository.
-In this repository you will find demo projects created with the Pico SDK, as well as useful information and development resources.
-
-## 💡 Features
-The Pico SDK provides access to a set of features that can be used for games and applications development in Unity, Unreal and Android. 
-
-Unity 2019.4 LTS is the earliest Unity version supported by the Pico Unity Integration SDK. If you would like to use more features such as Vulkan, Unity 2020.3 LTS and Unity 2021.3 LTS are recommended.
-
-For Unreal development, UE 4.25, 4.26 and 4.27 are supported.
-
-For more SDK updates and upcoming features, please follow our [SDK Roadmap](https://bytedance.feishu.cn/docx/doxcnWWl9pXkctpCXfNpOT9sgTc).
-
-## ⬇️ SDK Downloads
-
-|<img src="https://user-images.githubusercontent.com/46362299/179972791-0f04fdc1-6369-4f34-b288-749f58f5f33f.png" width="256" align="center"/>|<img src="https://user-images.githubusercontent.com/46362299/179974256-a3e68fcd-a594-4a67-b56c-87bbaa1338f3.png" width="256" align="center"/>| <img src="https://user-images.githubusercontent.com/46362299/179974575-bb9cadf2-f90c-4a85-841f-c5b90a6dff4c.png" width="256" align="center"/>| <img src="https://user-images.githubusercontent.com/46362299/179974746-0342839e-809e-4522-9cef-7063a953fc64.png" width="256" align="center"/>|
-|:--:|:--:|:--:|:--:|
-| [Download Unity XR SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12) | [Download Unreal XR SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)  | [Download OpenXR SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=2&itemId=13)| [Download Native XR SDK](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=3&itemId=16)
-
-### Metrics Tool
-The Pico Metrics Tool allows developers to monitor performance of applications running on Pico Devices.
-| [Download](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=15) | [Documentation](https://developer.pico-interactive.com/docs/unity/en/13136/241044/) |
-|--|--|
-
-### Preview Tool
-The Pico Preview Tool enables developers to preview their applications in real time using the Unity/Unreal Editor.
-| [Download](https://developer.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=17) | [Documentation (Unity)](https://developer.pico-interactive.com/docs/unity/en/13136/241045/) |[Documentation (Unreal)](https://developer.pico-interactive.com/docs/unreal/en/13156/preview-tool/)|
-|--|--|--|
-
-## 📄 SDK Documentation
-
-|Unity XR SDK|Unreal XR SDK| Native XR SDK|
-|--|--|--|
-| [Documentation](https://developer.pico-interactive.com/document/unity) | [Documentation](https://developer.pico-interactive.com/document/unreal)  | [Documentation](https://developer.pico-interactive.com/document/native) 
-|[API Reference](https://pdocor.pico-interactive.com/reference/unity/xr/2.05/)|[API Reference](https://pdocor.pico-interactive.com/reference/unreal/xr/12832/)|[API Reference](https://pdocor.pico-interactive.com/reference/native/xr/2.0.1/)|
-
-### Enterprise Solutions
-With the [Pico Enterprise Solutions](https://developer.pico-interactive.com/document/solution), developers can modify and configure advanced settings in their devices for a better Enterprise experience, such as custom Play Boundary, Kiosk Mode, or custom System Key bindings.
-**Note**: The Enterprise Solutions are not compatible with Neo 3 Link devices.
-
-### Legacy Documentation
-| [Pico Unity Platform SDK](https://developer.pico-interactive.com/docs/unity/en/13136/unity-platform-sdk-quickstart/) | [Pico Unreal Engine 4 SDK](https://developer.pico-interactive.com/docs/unreal/en/13156/ue4-sdk-quickstart/) |
-|--|--|
-
+Welcome to the official PICO DevSupport GitHub repository.
+In this repository you will find demo projects created with the PICO SDK, as well as useful information and development resources.
 
 ## 🔧 Pico Unity Integration SDK Demos
 |[**MicroWar**](https://github.com/picoxr/MicroWar)|
