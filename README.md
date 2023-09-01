@@ -3,11 +3,11 @@
 </p>
 
 
-# PicoXR SDK Official Repository
-Welcome to the official PICO DevSupport GitHub repository.
+# PICO Developer Support Official Repository
+Welcome to the official PICO Developer Support GitHub repository.
 In this repository you will find demo projects created with the PICO SDK, as well as useful information and development resources.
 
-## 🔧 Pico Unity Integration SDK Demos
+## 🔧 PICO Unity Integration SDK Demos
 |[**MicroWar**](https://github.com/picoxr/MicroWar)|
 |---------------------|
 |<a href="https://github.com/picoxr/MicroWar" target="-blank"><img src="https://github.com/picoxr/MicroWar/blob/9aaea843a11f63e6e9589055722dabdbf24dbd90/Documentation/Files/20230831-224504.jpg" padding="middle" width="1080px"></a>|
@@ -51,7 +51,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 [019]: https://github.com/picoxr/FaceTrackingDemo
 [020]: https://github.com/picoxr/Motion-Tracker-Leg-Tracking
 
-## 🔧 Pico Unreal Integration SDK Demos
+## 🔧 PICO Unreal Integration SDK Demos
 | [UI Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
 |---------------------|--------------------------|-----------------------------|
 | How to implement VR interaction with different Unreal UI components.| How to implement different Stereo Layer configurations.| How to implement different Unreal Engine rendering techniques on Pico devices.
@@ -60,14 +60,14 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 |[HandTracking](https://github.com/picoxr/HandTracking) |  |  |
 | How to input with hands instead of controllers. |  |  |
 
-## 🔧 Pico Native OpenXR SDK Demos
+## 🔧 PICO Native OpenXR SDK Demos
 | [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR CloudXR Client Demo](https://github.com/picoxr/OpenXR_CloudXR_Client_Demo) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
 |---------------------|---------------------|---------------------|
 | How to create your own Native OpenXR Application with PICO OpenXR SDK.| How to create your NVIDIA CloudXR Client with PICO OpenXR SDK.| How to create your 3D VieoPlayer with PICO OpenXR SDK.|
 
 
 
-## 🔧 Pico Android Sample Code/JAR File
+## 🔧 PICO Android Sample Code/JAR File
 
 | [Android Helper](https://github.com/picoxr/AndroidHelper)    | [Get Installed Package Name](https://github.com/picoxr/PackageNameManager) |[Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)| [Launch Pico System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)|
 |--|--|--|--|
