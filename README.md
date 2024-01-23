@@ -93,6 +93,7 @@ These Unity demos are specifically designed to run on PICO Enterprise devices (N
 If you have any questions or issues, you can contact us at:
 
 | [PICO DevSupport Portal](https://picodevsupport.freshdesk.com/support/home) | pico_devsupport@bytedance.com|
-| Enterprise Support | pico-business-techsupport@bytedance.com|
 |--|--|
+| Enterprise Support | pico-business-techsupport@bytedance.com|
+
 
