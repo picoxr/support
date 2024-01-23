@@ -76,8 +76,8 @@ These Unity demos are specifically designed to run on PICO Enterprise devices (N
 | [**Custom Launcher**][040]   | [**PICO Features Demo**][041] |[**PICOCast**][042]| [**ArUco Marker Tracking**][043]|
 |--|--|--|--|
 |How to create your own custom launcher | All-in-one PICO 4 Enterprise Features Demo | How to use PICO's proprietary casting solution| Dynamically track ArUco markers in Unity|
-|**Coming soon**|[**Advanced Eye Tracking**][043] | [**Video Player**][045] | [**Companion App**][046]|
-||Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | Create your own custom Video Player | Create your own VR/Smartphone companion app| 
+||[**Advanced Eye Tracking**][043] | [**Video Player**][045] | [**Companion App**][046]|
+||(**Coming soon**) Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | (**Coming soon**) Create your own custom Video Player | (**Coming soon**) Create your own VR/Smartphone companion app| 
 
 
 [040]: https://github.com/picoxr/Launcher-Demo-UnityXR
