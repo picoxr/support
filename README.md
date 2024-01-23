@@ -69,11 +69,30 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 |--|--|--|--|
 |The Android Helper .jar file can be used in Unity/Unreal to access and control PICO devices at Android level.|How to get installed package names on the device.|How to launch the built-in WebVR browser with a specified URL.|How to launch the built-in Video Player with a specified video file.|
 
+## 🔧 PICO Enterprise Demos
+
+These Unity demos are specifically designed to run on PICO Enterprise devices (Neo 3 Pro, PICO 4 Enterprise, PICO G3). Running in Consumer devices (Neo 3 Link, PICO 4) won't work.
+
+| [**Custom Launcher**][040]   | [**PICO Features Demo**][041] |[**PICOCast**][042]| [**ArUco Marker Tracking**][043]|
+|--|--|--|--|
+|How to create your own custom launcher | All-in-one PICO 4 Enterprise Features Demo | How to use PICO's proprietary casting solution| Dynamically track ArUco markers in Unity|
+|**Coming soon**|[**Advanced Eye Tracking**][043] | [**Video Player**][045] | [**Companion App**][046]|
+||Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | Create your own custom Video Player | Create your own VR/Smartphone companion app| 
+
+
+[040]: https://github.com/picoxr/Launcher-Demo-UnityXR
+[041]: https://github.com/picoxr/FeaturesDemo
+[042]: https://github.com/picoxr/PICOCast
+[043]: https://github.com/picoxr/ArUcoMarkerTracking
+[044]: https://github.com/picoxr/AdvancedEyeTracking
+[045]: https://github.com/picoxr/VideoPlayer-UnityXR
+[046]: https://github.com/picoxr/CompanionApp
 
 ## 👋 Technical Support
 
 If you have any questions or issues, you can contact us at:
 
 | [PICO DevSupport Portal](https://picodevsupport.freshdesk.com/support/home) | pico_devsupport@bytedance.com|
+| Enterprise Support | pico-business-techsupport@bytedance.com|
 |--|--|
 
