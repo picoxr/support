@@ -16,8 +16,8 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 | [Body Tracking][020] | [Face Tracking][019] | [Overlay Demo][001] | 
 |----------------------|--------------------------|-----------------------------|
 | How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. | How to get Face Tracking data from device and apply to an avatar.|How to use the Overlay component from the VR Compositor Layers Feature. | 
-| [**Eye Tracking**][011] |[**Catch ScreenShot**][005]|[**VideoPlayer**][006]|
-| How to use Eye Tracking APIs | Learn how to a screenshot from your application. | How to create different Video Players in Unity using the PICO SDK.|
+|   |[**Catch ScreenShot**][005]|[**VideoPlayer**][006]|
+|   | Learn how to a screenshot from your application. | How to create different Video Players in Unity using the PICO SDK.|
 | [**RTC Sync Demo**][016] | [**PlayFab Achievement Leaderboard**][008] | [**Photon State Sync**][009] |
 | How to use PICO SDK to achieve RTC (Real-Time-Communication) service. | How to implement achievement and leaderboard features using PlayFab game service. | How to implement state sync using Photon PUN.|
 | [**Photon RoomProperties Sync**][010] | [**Unity-PicoPlatformSDK-LeaderBoard**][017] | [**Launcher Demo**][012] | 
