@@ -77,7 +77,7 @@ These Unity demos are specifically designed to run on PICO Enterprise devices (N
 |--|--|--|--|
 |How to create your own custom launcher | All-in-one PICO 4 Enterprise Features Demo | How to use PICO's proprietary casting solution| Dynamically track ArUco markers in Unity|
 |[**Advanced Guardian Example**][047]|[**Advanced Eye Tracking**][044] | [**Video Player**][045] | [**Companion App**][046]|
-|Advanced Guardian (LBE Mode) features and multi-player scene|(**Coming soon**) Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | Create your own custom Video Player | (**Coming soon**) Create your own VR/Smartphone companion app| 
+|Advanced Guardian (LBE Mode) features and multi-player scene| Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | Create your own custom Video Player | (**Coming soon**) Create your own VR/Smartphone companion app| 
 |[**Get Camera Frame**][048]| | | |
 |Retrieve the PICO 4 E camera feed and send it to an Azure AI service | |  | | 
 
