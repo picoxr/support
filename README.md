@@ -57,9 +57,9 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 | How to input with hands instead of controllers. |  |  |
 
 ## 🔧 PICO Native OpenXR SDK Demos
-| [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR CloudXR Client Demo](https://github.com/picoxr/OpenXR_CloudXR_Client_Demo) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
-|---------------------|---------------------|---------------------|
-| How to create your own Native OpenXR Application with PICO OpenXR SDK.| How to create your NVIDIA CloudXR Client with PICO OpenXR SDK.| How to create your 3D VieoPlayer with PICO OpenXR SDK.|
+| [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
+|---------------------|---------------------|
+| How to create your own Native OpenXR Application with PICO OpenXR SDK.| How to create your 3D VideoPlayer with PICO OpenXR SDK.|
 
 
 
@@ -78,8 +78,8 @@ These Unity demos are specifically designed to run on PICO Enterprise devices (N
 |How to create your own custom launcher | All-in-one PICO 4 Enterprise Features Demo | How to use PICO's proprietary casting solution| Dynamically track ArUco markers in Unity|
 |[**Advanced Guardian Example**][047]|[**Advanced Eye Tracking**][044] | [**Video Player**][045] | [**Companion App**][046]|
 |Advanced Guardian (LBE Mode) features and multi-player scene| Learn how to use Advanced Eye Tracking APIs in PICO 4 Enterprise | Create your own custom Video Player | (**Coming soon**) Create your own VR/Smartphone companion app| 
-|[**Get Camera Frame**][048]| | | |
-|Retrieve the PICO 4 E camera feed and send it to an Azure AI service | |  | | 
+|[**Get Camera Frame**][048]| [**OpenXR CloudXR Client Demo**][049]| | |
+|Retrieve the PICO 4 E camera feed and send it to an Azure AI service | How to create your NVIDIA CloudXR Client with PICO OpenXR SDK.|  | | 
 
 
 [040]: https://github.com/picoxr/Launcher-Demo-UnityXR
@@ -91,6 +91,7 @@ These Unity demos are specifically designed to run on PICO Enterprise devices (N
 [046]: https://github.com/picoxr/CompanionApp
 [047]: https://github.com/picoxr/Advanced-Guardian-Example
 [048]: https://github.com/picoxr/GetCameraFrame
+[049]: https://github.com/picoxr/OpenXR_CloudXR_Client_Demo
 
 ## 👋 Technical Support
 
