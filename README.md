@@ -63,7 +63,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 
 
 
-## 🔧 PICO Android Sample Code/JAR File
+## 🔧 PICO Android Sample Code/JAR File (Legacy)
 
 | [Android Helper](https://github.com/picoxr/AndroidHelper)    | [Get Installed Package Name](https://github.com/picoxr/PackageNameManager) |[Launch WebVR Browser](https://github.com/picoxr/LauncherWebVR)| [Launch PICO System Built-in Video Player](https://github.com/picoxr/PicoPlayManager)|
 |--|--|--|--|
