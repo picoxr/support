@@ -71,7 +71,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 
 ## 🔧 PICO Enterprise Demos
 
-These Unity demos are specifically designed to run on PICO Enterprise devices (Neo 3 Pro, PICO 4 Enterprise, PICO G3).
+These Unity demos are specifically designed to run on PICO Enterprise devices (Neo 3 Pro, PICO 4 Enterprise, PICO 4 Ultra Enterprise, PICO G3).
 
 | [**Custom Launcher**][040]   | [**PICO Features Demo**][041] |[**PICOCast**][042]| [**ArUco Marker Tracking**][043]|
 |--|--|--|--|
