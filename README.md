@@ -48,13 +48,13 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 [020]: https://github.com/picoxr/Motion-Tracker-Leg-Tracking
 
 ## 🔧 PICO Unreal Integration SDK Demos
-| [UE5 Controller Interaction](https://github.com/picoxr/UIInteractionDemo) | [Stereo Layer](https://github.com/picoxr/StereoLayer) | [Rendering Techniques](https://github.com/picoxr/RenderingTechniques)|
-|---------------------|--------------------------|-----------------------------|
-| How to implement VR interaction with different Unreal UI components.| How to implement different Stereo Layer configurations.| How to implement different Unreal Engine rendering techniques on PICO devices.
+| [UE5 Controller Interaction](https://github.com/picoxr/UIInteractionDemo) | [HandTracking](https://github.com/picoxr/HandTracking) |[Stereo Layer](https://github.com/picoxr/StereoLayer) |
+|:---------------------|:--------------------------|:-----------------------------|
+| How to implement VR interaction with different Unreal UI components.| How to input with hands instead of controllers. | How to implement different Stereo Layer configurations.|
 | [PlatformSDK Identity Friend Rtc](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [PlatformSDK Achievement LeaderBoard](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[Haptic](https://github.com/picoxr/Haptic)|
 | How to use PICO Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use PICO Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement normal or broadband haptic on controllers.|
-|[HandTracking](https://github.com/picoxr/HandTracking) |  |  |
-| How to input with hands instead of controllers. |  |  |
+|[Rendering Techniques](https://github.com/picoxr/RenderingTechniques) |  |  |
+| How to implement different Unreal Engine rendering techniques on PICO devices. |  |  |
 
 ## 🔧 PICO Native OpenXR SDK Demos
 | [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
