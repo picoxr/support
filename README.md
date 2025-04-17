@@ -14,7 +14,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 |An all-in-one demo that meticulously showcases the core features of the PICO Unity Integration SDK.|
 
 | [Body Tracking][020] | [Face Tracking][019] | [Overlay Demo][001] | 
-|----------------------|--------------------------|-----------------------------|
+|:----------------------|:--------------------------|:-----------------------------|
 | How to setup and use the 3DoF Motion Tracker Leg Tracking. Obtain more activity postures to enhance the user's VR experience. | How to get Face Tracking data from device and apply to an avatar.|How to use the Overlay component from the VR Compositor Layers Feature. | 
 | [**Eye Tracking**][011]  |[**Catch ScreenShot**][005]|[**VideoPlayer**][006]|
 | How to use Eye Tracking APIs | Learn how to a screenshot from your application. | How to create different Video Players in Unity using the PICO SDK.|
@@ -48,12 +48,12 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 [020]: https://github.com/picoxr/Motion-Tracker-Leg-Tracking
 
 ## 🔧 PICO Unreal Integration SDK Demos
-| [UE5 Controller Interaction](https://github.com/picoxr/UIInteractionDemo) | [UE5 HandTracking](https://github.com/picoxr/HandTracking) |[Stereo Layer](https://github.com/picoxr/StereoLayer) |
+| [**UE5 Controller Interaction**](https://github.com/picoxr/UIInteractionDemo) | [**UE5 HandTracking**](https://github.com/picoxr/HandTracking) |[**Stereo Layer**](https://github.com/picoxr/StereoLayer) |
 |:---------------------|:--------------------------|:-----------------------------|
 | How to use the controller for simple interactive functions.| How to accomplish simple gesture definition and tracking. | How to implement different Stereo Layer configurations.|
-| [PlatformSDK Identity Friend Rtc](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [PlatformSDK Achievement LeaderBoard](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[Haptic](https://github.com/picoxr/Haptic)|
+| [**PlatformSDK Identity Friend Rtc**](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [**PlatformSDK Achievement LeaderBoard**](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[**Haptic**](https://github.com/picoxr/Haptic)|
 | How to use PICO Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use PICO Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement normal or broadband haptic on controllers.|
-|[Rendering Techniques](https://github.com/picoxr/RenderingTechniques) |  |  |
+|[**Rendering Techniques**](https://github.com/picoxr/RenderingTechniques) |  |  |
 | How to implement different Unreal Engine rendering techniques on PICO devices. |  |  |
 
 ## 🔧 PICO Native OpenXR SDK Demos
