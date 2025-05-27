@@ -48,7 +48,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 [020]: https://github.com/picoxr/Motion-Tracker-Leg-Tracking
 
 ## 🔧 PICO Unreal Integration SDK Demos
-| [**UE5 Controller Interaction**](https://github.com/picoxr/UIInteractionDemo) | [**UE5 Hand Tracking**](https://github.com/picoxr/HandTracking) |[**Stereo Layer**](https://github.com/picoxr/StereoLayer) |
+| [**UE5 Controller Interaction**](https://github.com/picoxr/UIInteractionDemo) | [**UE5 Hand Tracking**](https://github.com/picoxr/HandTracking) |[**UE5 Body Tracking**](https://github.com/picoxr/PICO_UE5_BodyTrackingSample) |
 |:---------------------|:--------------------------|:-----------------------------|
 | How to complete the mapping of controller and implement basic controller interactions. | How to implement simple hand gesture recognization and hand interactions. | How to implement different Stereo Layer configurations. |
 | [**PlatformSDK Identity Friend Rtc**](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [**PlatformSDK Achievement LeaderBoard**](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[**Haptic**](https://github.com/picoxr/Haptic)|
