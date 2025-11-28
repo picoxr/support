@@ -51,10 +51,15 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 | [**UE5 Controller Interaction**](https://github.com/picoxr/UIInteractionDemo) | [**UE5 Hand Tracking**](https://github.com/picoxr/HandTracking) |[**UE5 Body Tracking**](https://github.com/picoxr/PICO_UE5_BodyTrackingSample) |
 |:---------------------|:--------------------------|:-----------------------------|
 | How to complete the mapping of controller and implement basic controller interactions. | How to implement simple hand gesture recognization and hand interactions. | How to drive avatar with PICO body tracking data and achieve various interactive functions. |
-| [**PlatformSDK Identity Friend Rtc**](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [**PlatformSDK Achievement LeaderBoard**](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[**Haptic**](https://github.com/picoxr/Haptic)|
-| How to use PICO Unreal Platform SDK to integrate identity/friend list/RTC audio chat services for online games. |  How to use PICO Unreal Platform SDK to integrate achievement/leaderboard for online games. |  How to implement normal or broadband haptic on controllers.|
+| [**UE5 Identity Friend Rtc**](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [**UE5 Achievement LeaderBoard**](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[**Haptic**](https://github.com/picoxr/Haptic)|
+| How to use PICO Unreal Platform services to integrate identity/friend list/RTC audio chat services for multiplayer games(Updated to UE 5.6). |  How to use PICO Unreal Platform services to integrate achievement/leaderboard for multiplayer games(Updated to UE 5.6). |  How to implement normal or broadband haptic on controllers.|
 |[**Rendering Techniques**](https://github.com/picoxr/RenderingTechniques) |  |  |
 | How to implement different Unreal Engine rendering techniques on PICO devices. |  |  |
+
+## 🔧 PICO Unreal OpenXR Plugin Demos
+|[**UE5 OpenXR Demo**](https://github.com/picoxr/PICO_UE5_OpenXRSample)|
+|---------------------|
+|This is an XR experience demo developed using Unreal Engine 5.4 and the PICO Unreal OpenXR plugin. It is designed to comprehensively showcase the interaction capabilities of PICO devices, including controller interaction, hand tracking, and body tracking (Motion Trackers required).|
 
 ## 🔧 PICO Native OpenXR SDK Demos
 | [OpenXR Demos](https://github.com/picoxr/OpenXR_Demos) | [OpenXR VideoPlayer Demo](https://github.com/picoxr/OpenXR_VideoPlayer_Demo) |
